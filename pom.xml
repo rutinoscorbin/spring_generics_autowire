@@ -5,7 +5,7 @@
 	<artifactId>spring_generics_autowire</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<dependencies><!--test 11-->
+	<dependencies><!--test 211-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
